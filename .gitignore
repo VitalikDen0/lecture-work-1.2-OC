@@ -1,0 +1,50 @@
+# Compiled files
+*.o
+*.out
+*.a
+*.so
+*.dylib
+
+# Executable files
+*.exe
+*.app
+
+# Editor backups
+*~
+*.swp
+*.swo
+*#
+.#*
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Build directories
+build/
+dist/
+obj/
+.cmake
+CMakeFiles/
+CMakeLists.txt.user
+
+# Log files
+*.log
+output.txt
+errors.txt
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# Local test files
+test_output.txt
+test_*.log
